@@ -1,0 +1,9 @@
+wheel
+selenium
+pytest
+openpyxl
+matplotlib
+aspose-cells
+chromedriver_autoinstaller
+webdriver_manager
+PyAutoGUI
